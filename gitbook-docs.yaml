@@ -1,0 +1,31 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: BK STUDIO Docs
+  structure:
+    - type: section
+      key: section-2
+      title: job creator
+      path: job_creator
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-2
+          title: job creator
+          path: job-creator
+          default: true
+          content:
+            directory: null
+    - type: section
+      key: section-1
+      title: Bk wanted and news
+      path: bk-wanted-and-news
+      description: ""
+      children:
+        - type: space
+          key: space-1
+          title: Bk wanted and news
+          path: untitled
+          default: true
+          content:
+            directory: null
